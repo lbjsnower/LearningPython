@@ -1,2 +1,2 @@
 # LearningPython
-学习Python的资料聚集地
+学习Python的资料聚集地以及个人学习Python的历程
