@@ -8,8 +8,10 @@
 """
 
 num1 = 1
-num2 = 2
+num2 = 1
 num_sum = 0.0
 for i in range(20):
-    pass
-
+    num2,num1 = num1+num2,num2
+    num_sum += num2/num1
+    # print("第%-2s个分数结果是：%s"%(i+1,num_sum))
+print(num_sum)
